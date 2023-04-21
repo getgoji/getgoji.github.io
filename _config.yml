@@ -1,3 +1,5 @@
 title: Get Goji
 description: Get Goji
 theme: jekyll-theme-minimal
+theme_config:
+  background_color: "#f8bab0"
