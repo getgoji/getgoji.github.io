@@ -1,5 +1,3 @@
-# Get Goji!
-
 ## Our Mission:
 Our mission: to make the fashion industry more sustainable by enabling customers to make more informed choices and incentivizing corporations to make greener products.
 
