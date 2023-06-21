@@ -57,7 +57,7 @@ Goji was created as the fruit of labor from an idea sparked during Dubhacks, a 2
 Andrew Kuhn is a second year student studying Computer Science at UW pursuing a career in artificial intelligence. Contact Andrew Kuhn at akuhn2@uw.edu. Connect with him on LinkedIn @ https://www.linkedin.com/in/andrewkuhn101/ , and follow his projects at  [insert Andrew Github]
 
 **Jasmine Schoch:**
-Jasmine Schoch is a second year student studying Applied & Computational Mathematical Sciences: Biological and Life Sciences pursuing a career in computational biology. Contact Jasmine at Jschoch@uw.edu, connect with her on LinkedIn[https://www.linkedin.com/in/jasmine-schoch/], and follow her projects here!
+Jasmine Schoch is a second year student studying Computer Science pursuing a career in computational biology. Contact Jasmine at Jschoch@uw.edu, connect with her on LinkedIn[https://www.linkedin.com/in/jasmine-schoch/], and follow her projects here!
 
 **Virginia Wang:**
 Virginia Wang is a second year student studying Electrical & Computer Engineering at UW, pursuing a career in computational neuroscience. Contact Virginia at vwang129@uw.edu, connect with her on LinkedIn [https://www.linkedin.com/in/virginia-wang/] and follow her projects here! 
